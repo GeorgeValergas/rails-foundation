@@ -1,12 +1,15 @@
 == Welcome to Rails
 
+
+
 === Gonna change the layout
+-----
 
 * Use multiple yield tags  with different :symbols e.g :header :main :footer (you get the picture)
 
 * Then I'm gonna merge
 
 * Following that, I will prune this branch!
+-----
 
-
----Muahaha!
+> Muahaha!
